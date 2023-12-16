@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "Eox02JXXuqtBgPkhwXCpw7Qqv3nT4oVVPzQszUkPfng=",
+  "Source": "API",
+  "BasePath": "_content/API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "API\\wwwroot",
+      "Source": "API",
+      "ContentRoot": "C:\\Users\\ceyhu\\OneDrive\\Рабочий стол\\New folder (2)\\hyy\\wwwroot\\",
+      "BasePath": "_content/API",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}
